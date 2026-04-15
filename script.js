@@ -397,7 +397,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         const refProd = btnWP.getAttribute('data-ref');
                         const precioProd = btnWP.getAttribute('data-price');
                         const mensaje = encodeURIComponent(\`🐾 *¡Me interesa este producto!* 🐾\\n\\n📦 *Producto:* \${nombreProd}\\n🔖 *Referencia:* \${refProd}\\n💰 *Precio:* \${precioProd}\\n\\n📌 Me gustaría saber si tienen disponibilidad y formas de pago. ¡Gracias!\`);
-                        window.open(\`https://wa.me/5996908936?text=\${mensaje}\`, '_blank');
+                        window.open(\`https://wa.me/525996908936?text=\${mensaje}\`, '_blank');
                     });
                     
                     container.appendChild(card);
