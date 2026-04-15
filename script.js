@@ -416,10 +416,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const ttLink = document.getElementById('ttLink');
     
     // ========== ZONA PARA CAMBIAR ENLACES (MODIFICA AQUÍ) ==========
-    fbLink.href = "https://facebook.com/tupagina";   // CAMBIA A TU LINK DE FACEBOOK
+    fbLink.href = "https://www.facebook.com/profile.php?id=61564962306913&mibextid=wwXIfr&rdid=PrmsUZAMrEsUAl5P&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FmXZLwELK6Md8LPnP%2F%3Fmibextid%3DwwXIfr#";   // CAMBIA A TU LINK DE FACEBOOK
     igLink.href = "https://www.instagram.com/punkdog.mx/?fbclid=IwY2xjawRLsahleHRuA2FlbQIxMABicmlkETFkeERoQWdRZm1WVjFMdnNOc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHg0EKV9z9wtZpyiST95CBoHtovyzOurVAckT2HPvaXAKFBMQUOZCIONN1McN_aem_sLMQTDoXNqwlrvKly7iDgw";  // CAMBIA A TU LINK DE INSTAGRAM
-    ttLink.href = "https://tiktok.com/@tucuenta";    // CAMBIA A TU LINK DE TIKTOK
+    ttLink.href = "https://www.tiktok.com/@punkdog.mx?_t=8simycFoqlq&_r=1";    // CAMBIA A TU LINK DE TIKTOK
     // ===============================================================
+
 
     // EFECTOS VISUALES ADICIONALES
     const cards = document.querySelectorAll('.servicio-card');
